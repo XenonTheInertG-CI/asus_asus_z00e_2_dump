@@ -1,0 +1,18 @@
+## WW_Phone-user 6.0.1 MMB29P 13.1010.1612.53-20170202 release-keys
+- Manufacturer: asus
+- Platform: msm8916
+- Codename: ASUS_Z00E_2
+- Brand: asus
+- Flavor: WW_Phone-user
+- Release Version: 6.0.1
+- Id: MMB29P
+- Incremental: WW_Phone-13.1010.1612.53-20170202
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: asus/WW_Phone/ASUS_Z00E_2:6.0.1/MMB29P/13.1010.1612.53-20170202:user/release-keys
+- OTA version: 
+- Branch: WW_Phone-user-6.0.1-MMB29P-13.1010.1612.53-20170202-release-keys
+- Repo: asus_asus_z00e_2_dump
